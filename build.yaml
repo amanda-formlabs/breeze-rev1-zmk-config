@@ -15,9 +15,9 @@
 include:
   - board: nice_nano@2
     shield: breeze_rev1_left
-  - board: nice_nano_v2
+  - board: nice_nano@2
     shield: breeze_rev1_right
-  - board: nice_nano_v2
+  - board: nice_nano@2
     shield: settings_reset
   - board: nice_nano@2
     shield: breeze_left
