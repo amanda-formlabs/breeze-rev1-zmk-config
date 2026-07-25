@@ -51,7 +51,10 @@
         { "x": 12.75, "y": 2.125, "row": 2, "col":  9, "label":           "L" },
         { "x": 13.75, "y": 2.375, "row": 2, "col": 10, "label":        ":\n;" },
         { "x": 14.75, "y": 2.375, "row": 2, "col": 11, "label":       "\"\n'" },
-        { "x":    17, "y": 2.375, "row": 2, "col": 12, "label":          "Up" },
+        { "x":    16, "y": 2.375, "row": 2, "col": 12, "label":          "Up" },
+        { "x":    17, "y": 2.375, "row": 2, "col": 13, "label":  "Right Ctrl" },
+        { "x":    18, "y": 2.375, "row": 2, "col": 14, "label":   "Right Alt" },
+
 
         { "x":     0, "y": 3.375, "row": 3, "col":  0, "label":  "Left Shift" },
         { "x":     1, "y": 3.375, "row": 3, "col":  1, "label":           "Z" },
