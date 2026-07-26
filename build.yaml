@@ -13,11 +13,11 @@
 #
 ---
 include:
-  - board: nice_nano@2
+  - board: nice_nano//zmk
     shield: breeze_rev1_left
     snippet: zmk-usb-logging
-  - board: nice_nano@2
+  - board: nice_nano//zmk
     shield: breeze_rev1_right
     snippet: zmk-usb-logging
-  - board: nice_nano@2
+  - board: nice_nano//zmk
     shield: settings_reset
