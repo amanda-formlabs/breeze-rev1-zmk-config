@@ -80,7 +80,7 @@
 			, <&key_physical_attrs 100 100  350  425      0     0     0>  // LALT
 			, <&key_physical_attrs 100 100  450  450      0     0     0>  // mo2
 			, <&key_physical_attrs 100 200  625  375   3000   650   425>  // Enter
-			, <&key_physical_attrs 100 200  900  225  -3000  1225   450>  // Space
+			, <&key_physical_attrs 100 200  900  225  (-3000)  1225   450>  // Space
 			, <&key_physical_attrs 100 100 1025  450      0     0     0>  // mo1
 			, <&key_physical_attrs 100 100 1125  425      0     0     0>  // RALT
 			, <&key_physical_attrs 100 100 1225  425      0     0     0>  // RWIN
